@@ -1,0 +1,12 @@
+{
+  "name": "sunu-gox",
+  "private": true,
+  "type": "module",
+  "description": "Sunu Gox \u2014 a civic reporting API, taught in layers",
+  "scripts": {
+    "sweep": "node tools/sweep.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
